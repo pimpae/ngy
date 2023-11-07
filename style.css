@@ -26,12 +26,19 @@ img{
     width: 100%;
     max-width: 100%;
     display: block;
+    margin: auto; 
+}
+table img{
+    width: 80%;
+    max-width: 80%;
+    display: block;
     margin: auto;
+    border-radius: 10px;
 }
 h4{
     text-align: center;
     padding: 10px;
-    color: #000;
+    color: #fff;
     background-color: #ff6c00;
     font-size: 22px;
 }
